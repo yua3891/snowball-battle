@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>雪球大战 Snow Battle V6.2</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body oncontextmenu="return false">
+<div id="app">
+  <canvas id="game"></canvas>
+
+  <div id="joinPanel" class="panel center-panel">
+    <div class="eyebrow">SNOW BATTLE · ONLINE</div>
+    <h1>雪球大战</h1>
+    <p class="subtitle">随机雪地战场 · 先选阵营，再进入混战</p>
+    <div class="team-buttons">
+      <button id="joinBlue" class="team-btn blue">加入蓝方　<span id="blueCount">0</span>人</button>
+      <button id="joinRed" class="team-btn red">加入红方　<span id="redCount">0</span>人</button>
+    </div>
+    <div class="rule-list">
+      <div><b>鼠标右键</b>：移动，自动绕开<b>栅栏 / 湖</b></div>
+      <div><b>鼠标左键</b>：投雪球，射程有限，但雪球不会被障碍挡住</div>
+      <div><b>8秒</b>：无移动 + 无主动攻击 + 脱离战斗 → 冻成雪人无敌</div>
+      <div><b>再次操作</b>：短暂解冻后恢复行动</div>
+      <div><b>左上角配置</b>：可设置蓝色 / 红色机器人数量</div>
+    </div>
+    <div id="connectionStatus" class="connection">正在连接雪地服务器…</div>
+  </div>
+
+  <div id="hud" class="hidden">
+    <div class="top-wood">
+      <div class="brand"><span class="ball">❄</span>雪仗战场</div>
+      <div class="score-center">
+        <span class="blue-txt">蓝方 <b id="hudBlueCount">0</b>人</span>
+        <span id="blueScore" class="score-num">0</span>
+        <span>比</span>
+        <span id="redScore" class="score-num">0</span>
+        <span class="red-txt">红方 <b id="hudRedCount">0</b>人</span>
+      </div>
+      <div class="top-right"><span>在线 <b id="onlineCount">0</b></span><span>雪球射程 500</span></div>
+    </div>
+
+    <button id="configToggle" class="config-btn">配置</button>
+    <div id="configPanel" class="config-panel hidden">
+      <div class="config-title">机器人配置</div>
+      <label>蓝色机器人<input id="botBlue" type="number" min="0" max="20" value="0" /></label>
+      <label>红色机器人<input id="botRed" type="number" min="0" max="20" value="0" /></label>
+      <button id="applyConfig" class="apply-btn">应用配置</button>
+    </div>
+
+    <div class="my-stats">
+      <span>击杀 <b id="kills">0</b></span>
+      <span>死亡 <b id="deaths">0</b></span>
+      <span>命中 <b id="hits">0</b></span>
+      <span id="stateText">战斗中</span>
+    </div>
+
+    <div class="hp-gauge">
+      <div class="hp-inner"><div id="hpFill" class="hp-fill"></div></div>
+      <div id="hpText" class="hp-text">100%</div>
+    </div>
+
+    <div id="battleFeed" class="battle-feed"></div>
+    <div class="bottom-dock">
+      <div class="dock-slot">↗</div>
+      <div class="dock-slot">❄</div>
+      <div class="dock-slot">☃</div>
+      <div class="dock-help">右键移动　左键雪球　栅栏/湖挡人　房子/树可穿过</div>
+    </div>
+  </div>
+
+  <div id="toast"></div>
+
+  <div id="deathOverlay" class="hidden overlay">
+    <div class="overlay-card">
+      <h2 id="deathTitle">被雪球击倒了</h2>
+      <p>点击下面按钮即可在地图随机位置复活</p>
+      <button id="respawnNow" class="respawn-btn">立即复活</button>
+    </div>
+  </div>
+</div>
+<script src="./game.js"></script>
+</body>
+</html>
