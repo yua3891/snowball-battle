@@ -7,6 +7,10 @@
 > 本プロジェクトは独立したオープンソースのリメイク／トリビュートであり、元ゲームの運営者・権利者との提携、承認、ライセンス関係はありません。本リポジトリには元ゲームから直接抽出したプログラムやアセットは含まれていません。
 
 ![Snowball Battle gameplay](./docs/screenshots/gameplay-battle.webp)
+![Snowball Battle gameplay](./docs/screenshots/join-screen.webp)
+![Snowball Battle gameplay](./docs/screenshots/gameplay-config.webp)
+![Snowball Battle gameplay](./docs/screenshots/gameplay-snowman.webp)
+![Snowball Battle gameplay](./docs/screenshots/death-screen.webp)
 
 ## 主な特徴
 
@@ -152,3 +156,36 @@ Issue / Pull Request を歓迎します。特に以下の改善に向いてい�
 - [日本語 MIT 説明](./LICENSE.ja.md)
 
 法的に有効なライセンス本文は英語版 `LICENSE` です。
+
+
+
+
+---
+
+<table>
+  <tr>
+    <th align="center">加微信交流</th>
+    <th align="center">支持开源（微信）</th>
+    <th align="center">支持开源（支付宝）</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/weixin.jpg" alt="加微信交流" height="320"></td>
+    <td align="center"><img src="examples/paywx.jpg" alt="微信支持开源" height="320"></td>
+    <td align="center"><img src="examples/payalipay.jpg" alt="支付宝支持开源" height="320"></td>
+  </tr>
+</table>
+
+### 关注我们
+
+<table>
+  <tr>
+    <th align="center">公众号</th>
+    <th align="center">视频号</th>
+    <th align="center">抖音</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
+    <td align="center"><img src="examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
+    <td align="center"><img src="examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
+  </tr>
+</table>

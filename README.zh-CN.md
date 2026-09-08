@@ -7,6 +7,10 @@
 > 这是一个独立的开源重制 / 致敬项目，与原游戏运营方或相关权利方不存在隶属、授权或合作关系。本仓库不包含从原游戏直接提取的程序文件或素材。
 
 ![雪球大战游戏画面](./docs/screenshots/gameplay-battle.webp)
+![雪球大战游戏画面](./docs/screenshots/join-screen.webp)
+![雪球大战游戏画面](./docs/screenshots/gameplay-config.webp)
+![雪球大战游戏画面](./docs/screenshots/gameplay-snowman.webp)
+![雪球大战游戏画面](./docs/screenshots/death-screen.webp)
 
 ## 主要特点
 
@@ -152,3 +156,35 @@ docker run --rm -p 8080:8080 snowball-battle
 - [日本語 MIT 説明](./LICENSE.ja.md)
 
 具有法律效力的许可文本以英文 `LICENSE` 为准。
+
+
+
+---
+
+<table>
+  <tr>
+    <th align="center">加微信交流</th>
+    <th align="center">支持开源（微信）</th>
+    <th align="center">支持开源（支付宝）</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/weixin.jpg" alt="加微信交流" height="320"></td>
+    <td align="center"><img src="examples/paywx.jpg" alt="微信支持开源" height="320"></td>
+    <td align="center"><img src="examples/payalipay.jpg" alt="支付宝支持开源" height="320"></td>
+  </tr>
+</table>
+
+### 关注我们
+
+<table>
+  <tr>
+    <th align="center">公众号</th>
+    <th align="center">视频号</th>
+    <th align="center">抖音</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
+    <td align="center"><img src="examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
+    <td align="center"><img src="examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
+  </tr>
+</table>

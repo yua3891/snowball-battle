@@ -7,6 +7,10 @@ A lightweight multiplayer browser snowball-fight game inspired by the classic **
 > This is an independent open-source recreation / tribute project. It is not affiliated with, endorsed by, or licensed by the original game operator or rights holders. The repository does not include program files or assets extracted directly from the original game.
 
 ![Snowball Battle gameplay](./docs/screenshots/gameplay-battle.webp)
+![Snowball Battle gameplay](./docs/screenshots/join-screen.webp)
+![Snowball Battle gameplay](./docs/screenshots/gameplay-config.webp)
+![Snowball Battle gameplay](./docs/screenshots/gameplay-snowman.webp)
+![Snowball Battle gameplay](./docs/screenshots/death-screen.webp)
 
 ## Highlights
 
@@ -175,3 +179,35 @@ Translations / explanations:
 - [日本語 MIT 説明](./LICENSE.ja.md)
 
 The English `LICENSE` file is the legally authoritative license text.
+
+
+
+---
+
+<table>
+  <tr>
+    <th align="center">加微信交流</th>
+    <th align="center">支持开源（微信）</th>
+    <th align="center">支持开源（支付宝）</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/weixin.jpg" alt="加微信交流" height="320"></td>
+    <td align="center"><img src="examples/paywx.jpg" alt="微信支持开源" height="320"></td>
+    <td align="center"><img src="examples/payalipay.jpg" alt="支付宝支持开源" height="320"></td>
+  </tr>
+</table>
+
+### 关注我们
+
+<table>
+  <tr>
+    <th align="center">公众号</th>
+    <th align="center">视频号</th>
+    <th align="center">抖音</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
+    <td align="center"><img src="examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
+    <td align="center"><img src="examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
+  </tr>
+</table>
