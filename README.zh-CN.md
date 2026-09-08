@@ -164,9 +164,9 @@ docker run --rm -p 8080:8080 snowball-battle
     <th align="center">支持开源（支付宝）</th>
   </tr>
   <tr>
-    <td align="center"><img src="examples/weixin.jpg" alt="加微信交流" height="320"></td>
-    <td align="center"><img src="examples/paywx.jpg" alt="微信支持开源" height="320"></td>
-    <td align="center"><img src="examples/payalipay.jpg" alt="支付宝支持开源" height="320"></td>
+    <td align="center"><img src="./docs/examples/weixin.jpg" alt="加微信交流" height="320"></td>
+    <td align="center"><img src="./docs/examples/paywx.jpg" alt="微信支持开源" height="320"></td>
+    <td align="center"><img src="./docs/examples/payalipay.jpg" alt="支付宝支持开源" height="320"></td>
   </tr>
 </table>
 
@@ -179,8 +179,8 @@ docker run --rm -p 8080:8080 snowball-battle
     <th align="center">抖音</th>
   </tr>
   <tr>
-    <td align="center"><img src="doc/examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
-    <td align="center"><img src="doc/examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
-    <td align="center"><img src="doc/examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
+    <td align="center"><img src="./docs/examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
+    <td align="center"><img src="./docs/examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
+    <td align="center"><img src="./docs/examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
   </tr>
 </table>
