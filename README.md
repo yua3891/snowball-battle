@@ -7,10 +7,6 @@ A lightweight multiplayer browser snowball-fight game inspired by the classic **
 > This is an independent open-source recreation / tribute project. It is not affiliated with, endorsed by, or licensed by the original game operator or rights holders. The repository does not include program files or assets extracted directly from the original game.
 
 ![Snowball Battle gameplay](./docs/screenshots/gameplay-battle.webp)
-![Snowball Battle gameplay](./docs/screenshots/join-screen.webp)
-![Snowball Battle gameplay](./docs/screenshots/gameplay-config.webp)
-![Snowball Battle gameplay](./docs/screenshots/gameplay-snowman.webp)
-![Snowball Battle gameplay](./docs/screenshots/death-screen.webp)
 
 ## Highlights
 
@@ -206,8 +202,8 @@ The English `LICENSE` file is the legally authoritative license text.
     <th align="center">抖音</th>
   </tr>
   <tr>
-    <td align="center"><img src="examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
-    <td align="center"><img src="examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
-    <td align="center"><img src="examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
   </tr>
 </table>

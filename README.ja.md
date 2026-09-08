@@ -7,10 +7,6 @@
 > 本プロジェクトは独立したオープンソースのリメイク／トリビュートであり、元ゲームの運営者・権利者との提携、承認、ライセンス関係はありません。本リポジトリには元ゲームから直接抽出したプログラムやアセットは含まれていません。
 
 ![Snowball Battle gameplay](./docs/screenshots/gameplay-battle.webp)
-![Snowball Battle gameplay](./docs/screenshots/join-screen.webp)
-![Snowball Battle gameplay](./docs/screenshots/gameplay-config.webp)
-![Snowball Battle gameplay](./docs/screenshots/gameplay-snowman.webp)
-![Snowball Battle gameplay](./docs/screenshots/death-screen.webp)
 
 ## 主な特徴
 
@@ -184,8 +180,8 @@ Issue / Pull Request を歓迎します。特に以下の改善に向いてい�
     <th align="center">抖音</th>
   </tr>
   <tr>
-    <td align="center"><img src="examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
-    <td align="center"><img src="examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
-    <td align="center"><img src="examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
   </tr>
 </table>

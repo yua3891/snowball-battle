@@ -7,10 +7,6 @@
 > 这是一个独立的开源重制 / 致敬项目，与原游戏运营方或相关权利方不存在隶属、授权或合作关系。本仓库不包含从原游戏直接提取的程序文件或素材。
 
 ![雪球大战游戏画面](./docs/screenshots/gameplay-battle.webp)
-![雪球大战游戏画面](./docs/screenshots/join-screen.webp)
-![雪球大战游戏画面](./docs/screenshots/gameplay-config.webp)
-![雪球大战游戏画面](./docs/screenshots/gameplay-snowman.webp)
-![雪球大战游戏画面](./docs/screenshots/death-screen.webp)
 
 ## 主要特点
 
@@ -183,8 +179,8 @@ docker run --rm -p 8080:8080 snowball-battle
     <th align="center">抖音</th>
   </tr>
   <tr>
-    <td align="center"><img src="examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
-    <td align="center"><img src="examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
-    <td align="center"><img src="examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_gzh.jpg" alt="关注 AISolo大西瓜公众号" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_sph.jpg" alt="关注 AISolo大西瓜视频号" height="320"></td>
+    <td align="center"><img src="doc/examples/qr_dy.jpg" alt="关注 AISolo大西瓜抖音" height="320"></td>
   </tr>
 </table>
